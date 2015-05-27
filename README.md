@@ -8,6 +8,7 @@ ahd the manipulation and animation of them.
 
 The purpose of this application was to learn the OpenGL language
 
+
 Features
 ========
   - jogl powered (opengl bindings)
@@ -23,6 +24,7 @@ Features
   - mouse support
   - moving of objects
 
+
 Try it
 ======
 
@@ -32,6 +34,12 @@ Try it
 java -jar desktop-3DModel-viewer.jar org.andresoviedo.app.modelviewer3D.Main -Djava.library.path="c:\path\to\desktop-3DModel-viewer\lib"
 ```
   3. Load any obj from the models and textures from /models and /textures folders.
+
+
+Screenshot
+==========
+
+![Screenshot](https://github.com/andresoviedo/desktop-3DModel-viewer/blob/master/screenshot.png)
 
 
 Final Notes
