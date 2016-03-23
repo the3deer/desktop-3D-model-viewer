@@ -39,6 +39,7 @@ java -jar desktop-3DModel-viewer.jar org.andresoviedo.app.modelviewer3D.Main -Dj
 Screenshot
 ==========
 
+Video: https://www.youtube.com/watch?v=YJ3pa3Z7f1k
 ![Screenshot](https://github.com/andresoviedo/desktop-3DModel-viewer/blob/master/screenshot.png)
 
 
